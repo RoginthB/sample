@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cfa4645f.chunk.css",
+    "main.js": "./static/js/main.daaa07cf.chunk.js",
+    "main.js.map": "./static/js/main.daaa07cf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.39c07fd2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.39c07fd2.js.map",
+    "static/js/2.208d4d1c.chunk.js": "./static/js/2.208d4d1c.chunk.js",
+    "static/js/2.208d4d1c.chunk.js.map": "./static/js/2.208d4d1c.chunk.js.map",
+    "static/js/3.1efc4e0a.chunk.js": "./static/js/3.1efc4e0a.chunk.js",
+    "static/js/3.1efc4e0a.chunk.js.map": "./static/js/3.1efc4e0a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.cfa4645f.chunk.css.map": "./static/css/main.cfa4645f.chunk.css.map",
+    "static/js/2.208d4d1c.chunk.js.LICENSE.txt": "./static/js/2.208d4d1c.chunk.js.LICENSE.txt",
+    "static/media/covenling code.kongu.f561d8a1.png": "./static/media/covenling code.kongu.f561d8a1.png",
+    "static/media/logo.kongu.e171d9e4.png": "./static/media/logo.kongu.e171d9e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39c07fd2.js",
+    "static/js/2.208d4d1c.chunk.js",
+    "static/css/main.cfa4645f.chunk.css",
+    "static/js/main.daaa07cf.chunk.js"
+  ]
+}
